@@ -45,7 +45,7 @@ public class Parameter03_Basic {
         System.out.println("int 출력 : " + num);
     }
 
-    public static void rint(String text) {
+    public static void print(String text) {
         System.out.println("String 출력 : " + text);
     }
 
