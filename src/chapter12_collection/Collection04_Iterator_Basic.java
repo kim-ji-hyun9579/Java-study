@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class Collection04_Basic {
+public class Collection04_Iterator_Basic {
 
     public static void main(String[] args) {
 
